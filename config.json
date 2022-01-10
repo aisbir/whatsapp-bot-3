@@ -1,13 +1,13 @@
 {	
-	"prefix": "multi", 
+	"prefix": "a!", 
 	"defaultSessionName": "bot", 
-	"zeksKey": "apikey",
+	"zeksKey": "CiyVk47lUBtWqWSCtq3HwyRCQBZ",
 	"autoRead": true,
 	"self": false, 
 	"maxLimit": 30,
-	"ownerList": ["628xxxxxx@s.whatsapp.net", "6282xxxxxx@s.whatsapp.net"],
+	"ownerList": ["628xxxxxx@s.whatsapp.net"],
 	"apiUrl": "https://api.zeks.me",
     "imgUrl": "https://api.zeks.me/logo.jpg",
-	"pack": "Sticker",
-	"author": "BOT"
+	"pack": "Youtube.com/aisbirkun",
+	"author": "subscribe aisbirkun geming"
 }
